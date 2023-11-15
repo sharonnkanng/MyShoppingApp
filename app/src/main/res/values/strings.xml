@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyShoppingApp</string>
+    <string name="top_bar">Shopping List</string>
+    <string name="empty_list">No items</string>
+    <string name="save_btn">Save</string>
+    <string name="edit_btn">Edit</string>
+    <string name="enter_item_name">Enter Item: </string>
+    <string name="enter_item_price">Enter Price: </string>
+    <string name="enter_item_des">Enter Description: </string>
+    <string name="purchased">Purchased</string>
+    <string name="error_msg">Please fill out the required fields</string>
+    <string name="detail_title">Item Details: </string>
+    <string name="loading">Loading...</string>
+    <string name="empty_string"> </string>
+    <string name="all_delete">All Item Deleted!</string>
+    <string name="dollar_sign">$</string>
+    <string name="total_purchased">Total Expense of Purchased Items</string>
+    <string name="close">Close</string>
+    <string name="update">Item Updated!</string>
+    <string name="delete">Item Deleted!</string>
+    <string name="create">Item Created!</string>
+</resources>
